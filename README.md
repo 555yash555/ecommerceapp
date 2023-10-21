@@ -30,10 +30,7 @@ This Flutter app is a complete solution for an e-commerce platform with a focus 
 
 The app utilizes the Provider package for state management. It ensures efficient data sharing and management throughout the application. The provider package allows us to manage and access the app's state easily.
 
-```dart
-// Example of how I use Provider to manage state in the app
-Provider.of<YourProvider>(context).yourFunction();
-```
+
 
 
 
